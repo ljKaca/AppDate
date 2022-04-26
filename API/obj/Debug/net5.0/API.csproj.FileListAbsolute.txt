@@ -1,0 +1,363 @@
+C:/Users/mane1/OneDrive/Radna površina/DatingApp/DatingApp/API/bin/Debug/net5.0/appsettings.Development.json
+C:/Users/mane1/OneDrive/Radna površina/DatingApp/DatingApp/API/bin/Debug/net5.0/appsettings.json
+C:/Users/mane1/OneDrive/Radna površina/DatingApp/DatingApp/API/bin/Debug/net5.0/API.exe
+C:/Users/mane1/OneDrive/Radna površina/DatingApp/DatingApp/API/bin/Debug/net5.0/API.deps.json
+C:/Users/mane1/OneDrive/Radna površina/DatingApp/DatingApp/API/bin/Debug/net5.0/API.runtimeconfig.json
+C:/Users/mane1/OneDrive/Radna površina/DatingApp/DatingApp/API/bin/Debug/net5.0/API.runtimeconfig.dev.json
+C:/Users/mane1/OneDrive/Radna površina/DatingApp/DatingApp/API/bin/Debug/net5.0/API.dll
+C:/Users/mane1/OneDrive/Radna površina/DatingApp/DatingApp/API/bin/Debug/net5.0/ref/API.dll
+C:/Users/mane1/OneDrive/Radna površina/DatingApp/DatingApp/API/bin/Debug/net5.0/API.pdb
+C:/Users/mane1/OneDrive/Radna površina/DatingApp/DatingApp/API/bin/Debug/net5.0/Humanizer.dll
+C:/Users/mane1/OneDrive/Radna površina/DatingApp/DatingApp/API/bin/Debug/net5.0/Microsoft.Data.SqlClient.dll
+C:/Users/mane1/OneDrive/Radna površina/DatingApp/DatingApp/API/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.dll
+C:/Users/mane1/OneDrive/Radna površina/DatingApp/DatingApp/API/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+C:/Users/mane1/OneDrive/Radna površina/DatingApp/DatingApp/API/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Design.dll
+C:/Users/mane1/OneDrive/Radna površina/DatingApp/DatingApp/API/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Relational.dll
+C:/Users/mane1/OneDrive/Radna površina/DatingApp/DatingApp/API/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+C:/Users/mane1/OneDrive/Radna površina/DatingApp/DatingApp/API/bin/Debug/net5.0/Microsoft.Identity.Client.dll
+C:/Users/mane1/OneDrive/Radna površina/DatingApp/DatingApp/API/bin/Debug/net5.0/Microsoft.IdentityModel.JsonWebTokens.dll
+C:/Users/mane1/OneDrive/Radna površina/DatingApp/DatingApp/API/bin/Debug/net5.0/Microsoft.IdentityModel.Logging.dll
+C:/Users/mane1/OneDrive/Radna površina/DatingApp/DatingApp/API/bin/Debug/net5.0/Microsoft.IdentityModel.Protocols.dll
+C:/Users/mane1/OneDrive/Radna površina/DatingApp/DatingApp/API/bin/Debug/net5.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:/Users/mane1/OneDrive/Radna površina/DatingApp/DatingApp/API/bin/Debug/net5.0/Microsoft.IdentityModel.Tokens.dll
+C:/Users/mane1/OneDrive/Radna površina/DatingApp/DatingApp/API/bin/Debug/net5.0/Newtonsoft.Json.dll
+C:/Users/mane1/OneDrive/Radna površina/DatingApp/DatingApp/API/bin/Debug/net5.0/System.Configuration.ConfigurationManager.dll
+C:/Users/mane1/OneDrive/Radna površina/DatingApp/DatingApp/API/bin/Debug/net5.0/System.IdentityModel.Tokens.Jwt.dll
+C:/Users/mane1/OneDrive/Radna površina/DatingApp/DatingApp/API/bin/Debug/net5.0/System.Runtime.Caching.dll
+C:/Users/mane1/OneDrive/Radna površina/DatingApp/DatingApp/API/bin/Debug/net5.0/System.Security.Cryptography.ProtectedData.dll
+C:/Users/mane1/OneDrive/Radna površina/DatingApp/DatingApp/API/bin/Debug/net5.0/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+C:/Users/mane1/OneDrive/Radna površina/DatingApp/DatingApp/API/bin/Debug/net5.0/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+C:/Users/mane1/OneDrive/Radna površina/DatingApp/DatingApp/API/bin/Debug/net5.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/mane1/OneDrive/Radna površina/DatingApp/DatingApp/API/bin/Debug/net5.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.pdb
+C:/Users/mane1/OneDrive/Radna površina/DatingApp/DatingApp/API/bin/Debug/net5.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/mane1/OneDrive/Radna površina/DatingApp/DatingApp/API/bin/Debug/net5.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.pdb
+C:/Users/mane1/OneDrive/Radna površina/DatingApp/DatingApp/API/bin/Debug/net5.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/mane1/OneDrive/Radna površina/DatingApp/DatingApp/API/bin/Debug/net5.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.pdb
+C:/Users/mane1/OneDrive/Radna površina/DatingApp/DatingApp/API/bin/Debug/net5.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/mane1/OneDrive/Radna površina/DatingApp/DatingApp/API/bin/Debug/net5.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.pdb
+C:/Users/mane1/OneDrive/Radna površina/DatingApp/DatingApp/API/bin/Debug/net5.0/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
+C:/Users/mane1/OneDrive/Radna površina/DatingApp/DatingApp/API/bin/Debug/net5.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+C:/Users/mane1/OneDrive/Radna površina/DatingApp/DatingApp/API/obj/Debug/net5.0/API.csproj.AssemblyReference.cache
+C:/Users/mane1/OneDrive/Radna površina/DatingApp/DatingApp/API/obj/Debug/net5.0/API.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/mane1/OneDrive/Radna površina/DatingApp/DatingApp/API/obj/Debug/net5.0/API.AssemblyInfoInputs.cache
+C:/Users/mane1/OneDrive/Radna površina/DatingApp/DatingApp/API/obj/Debug/net5.0/API.AssemblyInfo.cs
+C:/Users/mane1/OneDrive/Radna površina/DatingApp/DatingApp/API/obj/Debug/net5.0/API.csproj.CoreCompileInputs.cache
+C:/Users/mane1/OneDrive/Radna površina/DatingApp/DatingApp/API/obj/Debug/net5.0/API.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/mane1/OneDrive/Radna površina/DatingApp/DatingApp/API/obj/Debug/net5.0/staticwebassets/API.StaticWebAssets.Manifest.cache
+C:/Users/mane1/OneDrive/Radna površina/DatingApp/DatingApp/API/obj/Debug/net5.0/staticwebassets/API.StaticWebAssets.xml
+C:/Users/mane1/OneDrive/Radna površina/DatingApp/DatingApp/API/obj/Debug/net5.0/scopedcss/bundle/API.styles.css
+C:/Users/mane1/OneDrive/Radna površina/DatingApp/DatingApp/API/obj/Debug/net5.0/API.RazorTargetAssemblyInfo.cache
+C:/Users/mane1/OneDrive/Radna površina/DatingApp/DatingApp/API/obj/Debug/net5.0/API.csproj.CopyComplete
+C:/Users/mane1/OneDrive/Radna površina/DatingApp/DatingApp/API/obj/Debug/net5.0/API.dll
+C:/Users/mane1/OneDrive/Radna površina/DatingApp/DatingApp/API/obj/Debug/net5.0/ref/API.dll
+C:/Users/mane1/OneDrive/Radna površina/DatingApp/DatingApp/API/obj/Debug/net5.0/API.pdb
+C:/Users/mane1/OneDrive/Radna površina/DatingApp/DatingApp/API/obj/Debug/net5.0/API.genruntimeconfig.cache
+C:/Users/mane1/OneDrive/Radna površina/DatingApp/API/bin/Debug/net5.0/appsettings.Development.json
+C:/Users/mane1/OneDrive/Radna površina/DatingApp/API/bin/Debug/net5.0/appsettings.json
+C:/Users/mane1/OneDrive/Radna površina/DatingApp/API/bin/Debug/net5.0/API.exe
+C:/Users/mane1/OneDrive/Radna površina/DatingApp/API/bin/Debug/net5.0/API.deps.json
+C:/Users/mane1/OneDrive/Radna površina/DatingApp/API/bin/Debug/net5.0/API.runtimeconfig.json
+C:/Users/mane1/OneDrive/Radna površina/DatingApp/API/bin/Debug/net5.0/API.runtimeconfig.dev.json
+C:/Users/mane1/OneDrive/Radna površina/DatingApp/API/bin/Debug/net5.0/API.dll
+C:/Users/mane1/OneDrive/Radna površina/DatingApp/API/bin/Debug/net5.0/ref/API.dll
+C:/Users/mane1/OneDrive/Radna površina/DatingApp/API/bin/Debug/net5.0/API.pdb
+C:/Users/mane1/OneDrive/Radna površina/DatingApp/API/bin/Debug/net5.0/Humanizer.dll
+C:/Users/mane1/OneDrive/Radna površina/DatingApp/API/bin/Debug/net5.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:/Users/mane1/OneDrive/Radna površina/DatingApp/API/bin/Debug/net5.0/Microsoft.Data.SqlClient.dll
+C:/Users/mane1/OneDrive/Radna površina/DatingApp/API/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.dll
+C:/Users/mane1/OneDrive/Radna površina/DatingApp/API/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+C:/Users/mane1/OneDrive/Radna površina/DatingApp/API/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Design.dll
+C:/Users/mane1/OneDrive/Radna površina/DatingApp/API/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Relational.dll
+C:/Users/mane1/OneDrive/Radna površina/DatingApp/API/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+C:/Users/mane1/OneDrive/Radna površina/DatingApp/API/bin/Debug/net5.0/Microsoft.Identity.Client.dll
+C:/Users/mane1/OneDrive/Radna površina/DatingApp/API/bin/Debug/net5.0/Microsoft.IdentityModel.JsonWebTokens.dll
+C:/Users/mane1/OneDrive/Radna površina/DatingApp/API/bin/Debug/net5.0/Microsoft.IdentityModel.Logging.dll
+C:/Users/mane1/OneDrive/Radna površina/DatingApp/API/bin/Debug/net5.0/Microsoft.IdentityModel.Protocols.dll
+C:/Users/mane1/OneDrive/Radna površina/DatingApp/API/bin/Debug/net5.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:/Users/mane1/OneDrive/Radna površina/DatingApp/API/bin/Debug/net5.0/Microsoft.IdentityModel.Tokens.dll
+C:/Users/mane1/OneDrive/Radna površina/DatingApp/API/bin/Debug/net5.0/System.Configuration.ConfigurationManager.dll
+C:/Users/mane1/OneDrive/Radna površina/DatingApp/API/bin/Debug/net5.0/System.IdentityModel.Tokens.Jwt.dll
+C:/Users/mane1/OneDrive/Radna površina/DatingApp/API/bin/Debug/net5.0/System.Runtime.Caching.dll
+C:/Users/mane1/OneDrive/Radna površina/DatingApp/API/bin/Debug/net5.0/System.Security.Cryptography.ProtectedData.dll
+C:/Users/mane1/OneDrive/Radna površina/DatingApp/API/bin/Debug/net5.0/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+C:/Users/mane1/OneDrive/Radna površina/DatingApp/API/bin/Debug/net5.0/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+C:/Users/mane1/OneDrive/Radna površina/DatingApp/API/bin/Debug/net5.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/mane1/OneDrive/Radna površina/DatingApp/API/bin/Debug/net5.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.pdb
+C:/Users/mane1/OneDrive/Radna površina/DatingApp/API/bin/Debug/net5.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/mane1/OneDrive/Radna površina/DatingApp/API/bin/Debug/net5.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.pdb
+C:/Users/mane1/OneDrive/Radna površina/DatingApp/API/bin/Debug/net5.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/mane1/OneDrive/Radna površina/DatingApp/API/bin/Debug/net5.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.pdb
+C:/Users/mane1/OneDrive/Radna površina/DatingApp/API/bin/Debug/net5.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/mane1/OneDrive/Radna površina/DatingApp/API/bin/Debug/net5.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.pdb
+C:/Users/mane1/OneDrive/Radna površina/DatingApp/API/bin/Debug/net5.0/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
+C:/Users/mane1/OneDrive/Radna površina/DatingApp/API/bin/Debug/net5.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+C:/Users/mane1/OneDrive/Radna površina/DatingApp/API/obj/Debug/net5.0/API.csproj.AssemblyReference.cache
+C:/Users/mane1/OneDrive/Radna površina/DatingApp/API/obj/Debug/net5.0/API.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/mane1/OneDrive/Radna površina/DatingApp/API/obj/Debug/net5.0/API.AssemblyInfoInputs.cache
+C:/Users/mane1/OneDrive/Radna površina/DatingApp/API/obj/Debug/net5.0/API.AssemblyInfo.cs
+C:/Users/mane1/OneDrive/Radna površina/DatingApp/API/obj/Debug/net5.0/API.csproj.CoreCompileInputs.cache
+C:/Users/mane1/OneDrive/Radna površina/DatingApp/API/obj/Debug/net5.0/API.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/mane1/OneDrive/Radna površina/DatingApp/API/obj/Debug/net5.0/staticwebassets/API.StaticWebAssets.Manifest.cache
+C:/Users/mane1/OneDrive/Radna površina/DatingApp/API/obj/Debug/net5.0/staticwebassets/API.StaticWebAssets.xml
+C:/Users/mane1/OneDrive/Radna površina/DatingApp/API/obj/Debug/net5.0/scopedcss/bundle/API.styles.css
+C:/Users/mane1/OneDrive/Radna površina/DatingApp/API/obj/Debug/net5.0/API.RazorTargetAssemblyInfo.cache
+C:/Users/mane1/OneDrive/Radna površina/DatingApp/API/obj/Debug/net5.0/API.csproj.CopyComplete
+C:/Users/mane1/OneDrive/Radna površina/DatingApp/API/obj/Debug/net5.0/API.dll
+C:/Users/mane1/OneDrive/Radna površina/DatingApp/API/obj/Debug/net5.0/ref/API.dll
+C:/Users/mane1/OneDrive/Radna površina/DatingApp/API/obj/Debug/net5.0/API.pdb
+C:/Users/mane1/OneDrive/Radna površina/DatingApp/API/obj/Debug/net5.0/API.genruntimeconfig.cache
+/media/marokos/HDD EXTERN/Obuka/DatingApp/API/bin/Debug/net5.0/appsettings.Development.json
+/media/marokos/HDD EXTERN/Obuka/DatingApp/API/bin/Debug/net5.0/appsettings.json
+/media/marokos/HDD EXTERN/Obuka/DatingApp/API/bin/Debug/net5.0/API
+/media/marokos/HDD EXTERN/Obuka/DatingApp/API/bin/Debug/net5.0/API.deps.json
+/media/marokos/HDD EXTERN/Obuka/DatingApp/API/bin/Debug/net5.0/API.runtimeconfig.json
+/media/marokos/HDD EXTERN/Obuka/DatingApp/API/bin/Debug/net5.0/API.runtimeconfig.dev.json
+/media/marokos/HDD EXTERN/Obuka/DatingApp/API/bin/Debug/net5.0/API.dll
+/media/marokos/HDD EXTERN/Obuka/DatingApp/API/bin/Debug/net5.0/ref/API.dll
+/media/marokos/HDD EXTERN/Obuka/DatingApp/API/bin/Debug/net5.0/API.pdb
+/media/marokos/HDD EXTERN/Obuka/DatingApp/API/bin/Debug/net5.0/Humanizer.dll
+/media/marokos/HDD EXTERN/Obuka/DatingApp/API/bin/Debug/net5.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+/media/marokos/HDD EXTERN/Obuka/DatingApp/API/bin/Debug/net5.0/Microsoft.Data.SqlClient.dll
+/media/marokos/HDD EXTERN/Obuka/DatingApp/API/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.dll
+/media/marokos/HDD EXTERN/Obuka/DatingApp/API/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/media/marokos/HDD EXTERN/Obuka/DatingApp/API/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Design.dll
+/media/marokos/HDD EXTERN/Obuka/DatingApp/API/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Relational.dll
+/media/marokos/HDD EXTERN/Obuka/DatingApp/API/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/media/marokos/HDD EXTERN/Obuka/DatingApp/API/bin/Debug/net5.0/Microsoft.Identity.Client.dll
+/media/marokos/HDD EXTERN/Obuka/DatingApp/API/bin/Debug/net5.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/media/marokos/HDD EXTERN/Obuka/DatingApp/API/bin/Debug/net5.0/Microsoft.IdentityModel.Logging.dll
+/media/marokos/HDD EXTERN/Obuka/DatingApp/API/bin/Debug/net5.0/Microsoft.IdentityModel.Protocols.dll
+/media/marokos/HDD EXTERN/Obuka/DatingApp/API/bin/Debug/net5.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/media/marokos/HDD EXTERN/Obuka/DatingApp/API/bin/Debug/net5.0/Microsoft.IdentityModel.Tokens.dll
+/media/marokos/HDD EXTERN/Obuka/DatingApp/API/bin/Debug/net5.0/System.Configuration.ConfigurationManager.dll
+/media/marokos/HDD EXTERN/Obuka/DatingApp/API/bin/Debug/net5.0/System.IdentityModel.Tokens.Jwt.dll
+/media/marokos/HDD EXTERN/Obuka/DatingApp/API/bin/Debug/net5.0/System.Runtime.Caching.dll
+/media/marokos/HDD EXTERN/Obuka/DatingApp/API/bin/Debug/net5.0/System.Security.Cryptography.ProtectedData.dll
+/media/marokos/HDD EXTERN/Obuka/DatingApp/API/bin/Debug/net5.0/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/media/marokos/HDD EXTERN/Obuka/DatingApp/API/bin/Debug/net5.0/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/media/marokos/HDD EXTERN/Obuka/DatingApp/API/bin/Debug/net5.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/media/marokos/HDD EXTERN/Obuka/DatingApp/API/bin/Debug/net5.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.pdb
+/media/marokos/HDD EXTERN/Obuka/DatingApp/API/bin/Debug/net5.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/media/marokos/HDD EXTERN/Obuka/DatingApp/API/bin/Debug/net5.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.pdb
+/media/marokos/HDD EXTERN/Obuka/DatingApp/API/bin/Debug/net5.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/media/marokos/HDD EXTERN/Obuka/DatingApp/API/bin/Debug/net5.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.pdb
+/media/marokos/HDD EXTERN/Obuka/DatingApp/API/bin/Debug/net5.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/media/marokos/HDD EXTERN/Obuka/DatingApp/API/bin/Debug/net5.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.pdb
+/media/marokos/HDD EXTERN/Obuka/DatingApp/API/bin/Debug/net5.0/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
+/media/marokos/HDD EXTERN/Obuka/DatingApp/API/bin/Debug/net5.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/media/marokos/HDD EXTERN/Obuka/DatingApp/API/obj/Debug/net5.0/API.csproj.AssemblyReference.cache
+/media/marokos/HDD EXTERN/Obuka/DatingApp/API/obj/Debug/net5.0/API.GeneratedMSBuildEditorConfig.editorconfig
+/media/marokos/HDD EXTERN/Obuka/DatingApp/API/obj/Debug/net5.0/API.AssemblyInfoInputs.cache
+/media/marokos/HDD EXTERN/Obuka/DatingApp/API/obj/Debug/net5.0/API.AssemblyInfo.cs
+/media/marokos/HDD EXTERN/Obuka/DatingApp/API/obj/Debug/net5.0/API.csproj.CoreCompileInputs.cache
+/media/marokos/HDD EXTERN/Obuka/DatingApp/API/obj/Debug/net5.0/API.MvcApplicationPartsAssemblyInfo.cache
+/media/marokos/HDD EXTERN/Obuka/DatingApp/API/obj/Debug/net5.0/staticwebassets/API.StaticWebAssets.Manifest.cache
+/media/marokos/HDD EXTERN/Obuka/DatingApp/API/obj/Debug/net5.0/staticwebassets/API.StaticWebAssets.xml
+/media/marokos/HDD EXTERN/Obuka/DatingApp/API/obj/Debug/net5.0/scopedcss/bundle/API.styles.css
+/media/marokos/HDD EXTERN/Obuka/DatingApp/API/obj/Debug/net5.0/API.RazorTargetAssemblyInfo.cache
+/media/marokos/HDD EXTERN/Obuka/DatingApp/API/obj/Debug/net5.0/API.csproj.CopyComplete
+/media/marokos/HDD EXTERN/Obuka/DatingApp/API/obj/Debug/net5.0/API.dll
+/media/marokos/HDD EXTERN/Obuka/DatingApp/API/obj/Debug/net5.0/ref/API.dll
+/media/marokos/HDD EXTERN/Obuka/DatingApp/API/obj/Debug/net5.0/API.pdb
+/media/marokos/HDD EXTERN/Obuka/DatingApp/API/obj/Debug/net5.0/API.genruntimeconfig.cache
+C:\Users\Creen\Desktop\DatingApp\API\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Creen\Desktop\DatingApp\API\bin\Debug\net5.0\appsettings.json
+C:\Users\Creen\Desktop\DatingApp\API\bin\Debug\net5.0\Data\UserSeedData.json
+C:\Users\Creen\Desktop\DatingApp\API\bin\Debug\net5.0\API.exe
+C:\Users\Creen\Desktop\DatingApp\API\bin\Debug\net5.0\API.deps.json
+C:\Users\Creen\Desktop\DatingApp\API\bin\Debug\net5.0\API.runtimeconfig.json
+C:\Users\Creen\Desktop\DatingApp\API\bin\Debug\net5.0\API.runtimeconfig.dev.json
+C:\Users\Creen\Desktop\DatingApp\API\bin\Debug\net5.0\API.dll
+C:\Users\Creen\Desktop\DatingApp\API\bin\Debug\net5.0\ref\API.dll
+C:\Users\Creen\Desktop\DatingApp\API\bin\Debug\net5.0\API.pdb
+C:\Users\Creen\Desktop\DatingApp\API\bin\Debug\net5.0\AutoMapper.dll
+C:\Users\Creen\Desktop\DatingApp\API\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Creen\Desktop\DatingApp\API\bin\Debug\net5.0\CloudinaryDotNet.dll
+C:\Users\Creen\Desktop\DatingApp\API\bin\Debug\net5.0\Humanizer.dll
+C:\Users\Creen\Desktop\DatingApp\API\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Creen\Desktop\DatingApp\API\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Creen\Desktop\DatingApp\API\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Creen\Desktop\DatingApp\API\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Creen\Desktop\DatingApp\API\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\Creen\Desktop\DatingApp\API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Creen\Desktop\DatingApp\API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Creen\Desktop\DatingApp\API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Creen\Desktop\DatingApp\API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Creen\Desktop\DatingApp\API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Creen\Desktop\DatingApp\API\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Creen\Desktop\DatingApp\API\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Creen\Desktop\DatingApp\API\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Creen\Desktop\DatingApp\API\bin\Debug\net5.0\Microsoft.Extensions.WebEncoders.dll
+C:\Users\Creen\Desktop\DatingApp\API\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\Creen\Desktop\DatingApp\API\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Creen\Desktop\DatingApp\API\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Creen\Desktop\DatingApp\API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Creen\Desktop\DatingApp\API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Creen\Desktop\DatingApp\API\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Creen\Desktop\DatingApp\API\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Creen\Desktop\DatingApp\API\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Creen\Desktop\DatingApp\API\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Creen\Desktop\DatingApp\API\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Creen\Desktop\DatingApp\API\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\Creen\Desktop\DatingApp\API\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Creen\Desktop\DatingApp\API\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Creen\Desktop\DatingApp\API\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Creen\Desktop\DatingApp\API\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Creen\Desktop\DatingApp\API\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Creen\Desktop\DatingApp\API\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Creen\Desktop\DatingApp\API\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Creen\Desktop\DatingApp\API\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Creen\Desktop\DatingApp\API\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Creen\Desktop\DatingApp\API\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Creen\Desktop\DatingApp\API\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Creen\Desktop\DatingApp\API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Creen\Desktop\DatingApp\API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Creen\Desktop\DatingApp\API\obj\Debug\net5.0\API.csprojAssemblyReference.cache
+C:\Users\Creen\Desktop\DatingApp\API\obj\Debug\net5.0\API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Creen\Desktop\DatingApp\API\obj\Debug\net5.0\API.AssemblyInfoInputs.cache
+C:\Users\Creen\Desktop\DatingApp\API\obj\Debug\net5.0\API.AssemblyInfo.cs
+C:\Users\Creen\Desktop\DatingApp\API\obj\Debug\net5.0\API.csproj.CoreCompileInputs.cache
+C:\Users\Creen\Desktop\DatingApp\API\obj\Debug\net5.0\API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Creen\Desktop\DatingApp\API\obj\Debug\net5.0\staticwebassets\API.StaticWebAssets.Manifest.cache
+C:\Users\Creen\Desktop\DatingApp\API\obj\Debug\net5.0\staticwebassets\API.StaticWebAssets.xml
+C:\Users\Creen\Desktop\DatingApp\API\obj\Debug\net5.0\scopedcss\bundle\API.styles.css
+C:\Users\Creen\Desktop\DatingApp\API\obj\Debug\net5.0\API.RazorTargetAssemblyInfo.cache
+C:\Users\Creen\Desktop\DatingApp\API\obj\Debug\net5.0\API.csproj.CopyComplete
+C:\Users\Creen\Desktop\DatingApp\API\obj\Debug\net5.0\API.dll
+C:\Users\Creen\Desktop\DatingApp\API\obj\Debug\net5.0\ref\API.dll
+C:\Users\Creen\Desktop\DatingApp\API\obj\Debug\net5.0\API.pdb
+C:\Users\Creen\Desktop\DatingApp\API\obj\Debug\net5.0\API.genruntimeconfig.cache
+Y:\API\bin\Debug\net5.0\appsettings.Development.json
+Y:\API\bin\Debug\net5.0\appsettings.json
+Y:\API\bin\Debug\net5.0\Data\UserSeedData.json
+Y:\API\bin\Debug\net5.0\API.exe
+Y:\API\bin\Debug\net5.0\API.deps.json
+Y:\API\bin\Debug\net5.0\API.runtimeconfig.json
+Y:\API\bin\Debug\net5.0\API.runtimeconfig.dev.json
+Y:\API\bin\Debug\net5.0\API.dll
+Y:\API\bin\Debug\net5.0\ref\API.dll
+Y:\API\bin\Debug\net5.0\API.pdb
+Y:\API\bin\Debug\net5.0\AutoMapper.dll
+Y:\API\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+Y:\API\bin\Debug\net5.0\CloudinaryDotNet.dll
+Y:\API\bin\Debug\net5.0\Humanizer.dll
+Y:\API\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+Y:\API\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+Y:\API\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+Y:\API\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+Y:\API\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+Y:\API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+Y:\API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+Y:\API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+Y:\API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+Y:\API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+Y:\API\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+Y:\API\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+Y:\API\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+Y:\API\bin\Debug\net5.0\Microsoft.Extensions.WebEncoders.dll
+Y:\API\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+Y:\API\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+Y:\API\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+Y:\API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+Y:\API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+Y:\API\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+Y:\API\bin\Debug\net5.0\Newtonsoft.Json.dll
+Y:\API\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+Y:\API\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+Y:\API\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+Y:\API\bin\Debug\net5.0\System.Runtime.Caching.dll
+Y:\API\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+Y:\API\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+Y:\API\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+Y:\API\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+Y:\API\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+Y:\API\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+Y:\API\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+Y:\API\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+Y:\API\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+Y:\API\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+Y:\API\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+Y:\API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+Y:\API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+Y:\API\obj\Debug\net5.0\API.csprojAssemblyReference.cache
+Y:\API\obj\Debug\net5.0\API.GeneratedMSBuildEditorConfig.editorconfig
+Y:\API\obj\Debug\net5.0\API.AssemblyInfoInputs.cache
+Y:\API\obj\Debug\net5.0\API.AssemblyInfo.cs
+Y:\API\obj\Debug\net5.0\API.csproj.CoreCompileInputs.cache
+Y:\API\obj\Debug\net5.0\API.MvcApplicationPartsAssemblyInfo.cache
+Y:\API\obj\Debug\net5.0\staticwebassets\API.StaticWebAssets.Manifest.cache
+Y:\API\obj\Debug\net5.0\staticwebassets\API.StaticWebAssets.xml
+Y:\API\obj\Debug\net5.0\scopedcss\bundle\API.styles.css
+Y:\API\obj\Debug\net5.0\API.RazorTargetAssemblyInfo.cache
+Y:\API\obj\Debug\net5.0\API.csproj.CopyComplete
+Y:\API\obj\Debug\net5.0\API.dll
+Y:\API\obj\Debug\net5.0\ref\API.dll
+Y:\API\obj\Debug\net5.0\API.pdb
+Y:\API\obj\Debug\net5.0\API.genruntimeconfig.cache
+C:\Users\Creen\Desktop\API\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Creen\Desktop\API\bin\Debug\net5.0\appsettings.json
+C:\Users\Creen\Desktop\API\bin\Debug\net5.0\Data\UserSeedData.json
+C:\Users\Creen\Desktop\API\bin\Debug\net5.0\API.exe
+C:\Users\Creen\Desktop\API\bin\Debug\net5.0\API.deps.json
+C:\Users\Creen\Desktop\API\bin\Debug\net5.0\API.runtimeconfig.json
+C:\Users\Creen\Desktop\API\bin\Debug\net5.0\API.runtimeconfig.dev.json
+C:\Users\Creen\Desktop\API\bin\Debug\net5.0\API.dll
+C:\Users\Creen\Desktop\API\bin\Debug\net5.0\ref\API.dll
+C:\Users\Creen\Desktop\API\bin\Debug\net5.0\API.pdb
+C:\Users\Creen\Desktop\API\bin\Debug\net5.0\AutoMapper.dll
+C:\Users\Creen\Desktop\API\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Creen\Desktop\API\bin\Debug\net5.0\CloudinaryDotNet.dll
+C:\Users\Creen\Desktop\API\bin\Debug\net5.0\Humanizer.dll
+C:\Users\Creen\Desktop\API\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Creen\Desktop\API\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Creen\Desktop\API\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Creen\Desktop\API\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Creen\Desktop\API\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\Creen\Desktop\API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Creen\Desktop\API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Creen\Desktop\API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Creen\Desktop\API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Creen\Desktop\API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Creen\Desktop\API\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Creen\Desktop\API\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Creen\Desktop\API\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Creen\Desktop\API\bin\Debug\net5.0\Microsoft.Extensions.WebEncoders.dll
+C:\Users\Creen\Desktop\API\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\Creen\Desktop\API\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Creen\Desktop\API\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Creen\Desktop\API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Creen\Desktop\API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Creen\Desktop\API\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Creen\Desktop\API\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Creen\Desktop\API\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Creen\Desktop\API\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Creen\Desktop\API\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Creen\Desktop\API\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\Creen\Desktop\API\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Creen\Desktop\API\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Creen\Desktop\API\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Creen\Desktop\API\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Creen\Desktop\API\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Creen\Desktop\API\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Creen\Desktop\API\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Creen\Desktop\API\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Creen\Desktop\API\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Creen\Desktop\API\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Creen\Desktop\API\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Creen\Desktop\API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Creen\Desktop\API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Creen\Desktop\API\obj\Debug\net5.0\API.csprojAssemblyReference.cache
+C:\Users\Creen\Desktop\API\obj\Debug\net5.0\API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Creen\Desktop\API\obj\Debug\net5.0\API.AssemblyInfoInputs.cache
+C:\Users\Creen\Desktop\API\obj\Debug\net5.0\API.AssemblyInfo.cs
+C:\Users\Creen\Desktop\API\obj\Debug\net5.0\API.csproj.CoreCompileInputs.cache
+C:\Users\Creen\Desktop\API\obj\Debug\net5.0\API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Creen\Desktop\API\obj\Debug\net5.0\staticwebassets\API.StaticWebAssets.Manifest.cache
+C:\Users\Creen\Desktop\API\obj\Debug\net5.0\staticwebassets\API.StaticWebAssets.xml
+C:\Users\Creen\Desktop\API\obj\Debug\net5.0\scopedcss\bundle\API.styles.css
+C:\Users\Creen\Desktop\API\obj\Debug\net5.0\API.RazorTargetAssemblyInfo.cache
+C:\Users\Creen\Desktop\API\obj\Debug\net5.0\API.csproj.CopyComplete
+C:\Users\Creen\Desktop\API\obj\Debug\net5.0\API.dll
+C:\Users\Creen\Desktop\API\obj\Debug\net5.0\ref\API.dll
+C:\Users\Creen\Desktop\API\obj\Debug\net5.0\API.pdb
+C:\Users\Creen\Desktop\API\obj\Debug\net5.0\API.genruntimeconfig.cache
